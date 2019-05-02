@@ -1,3 +1,7 @@
 body {
   font-family: sans-serif;
 }
+
+.image-holder {
+  margin-left: -9999px;
+}
